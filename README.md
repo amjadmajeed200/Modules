@@ -1,1 +1,1 @@
-# Modules
+# Modules for Magento 2
